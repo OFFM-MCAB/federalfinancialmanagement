@@ -17,6 +17,8 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 
 You can leave your feedback [here](https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose).  Please ensure that you reference which data element you are commenting on.
 
+<a class="usa-button usa-button-secondary" target="_blank" href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">Submit a Comment</a>
+
 <script type="text/javascript">
 
 $(document).ready(function() {
