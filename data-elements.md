@@ -20,7 +20,7 @@ For the purposes of the Federal Data Strategy, a “Use Case” is a data practi
 
 $(document).ready(function() {
     init_table({
-     csv_path: '../data/GRM-Data-View-For-Public-Comment-1.csv',
+     csv_path: './data/GRM-Data-View-For-Public-Comment-1.csv',
      element: 'table-container',
     });
 } );
