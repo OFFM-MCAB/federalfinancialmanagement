@@ -36,7 +36,7 @@ function numbers(colA, colB) {
     }
 }
 
-$(document).ready(function() {
+$(document).on('ready', function() {
     checkSize();
     $(window).resize(checkSize);
 });
@@ -91,7 +91,7 @@ function placeFooter() {
 
 }
 
-$(window).load(function() {
+$(window).on('load', function() {
     placeFooter()
 });
 
