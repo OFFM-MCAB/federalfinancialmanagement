@@ -17,7 +17,7 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 
 <a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download Github Feedback FAQs PDF</a> <a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download User Guide for Github Feedback PDF</a> 
 
-To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. All comments received may be posted without change, including any personal information provided. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
+To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. All comments received may be posted without change, including any personal information provided. All comments are subject to the Freedom of Information Act. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
 
 <a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" target="_blank" class="btn btn-primary" role="button">Leave Feedback</a>
 
