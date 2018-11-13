@@ -21,7 +21,7 @@ For additional guidance refer to the User Guide and Frequently Asked Questions (
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. Please create a new issue for each data element you comment on. 
 
-All comments received may be posted without change, including any personal information provided. All comments are subject to the Freedom of Information Act. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
+All comments received may be posted without change, including any personal information provided. **All comments will be made public** and are subject to the Freedom of Information Act. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
 
 <a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" target="_blank" class="btn btn-primary" role="button">Leave Feedback</a>
 ## Join the Conversation!
