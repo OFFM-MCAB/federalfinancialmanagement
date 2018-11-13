@@ -24,7 +24,7 @@ Today, the Federal government does not have a robust, integrated approach to use
 ## Stay Up-to-Date 
 We have multiple ways for your to stay updated on the progress of the Results-Oriented Accountability for Grants CAP Goal! 
 * Join our <a href="https://digital.gov/communities/results-oriented-accountability-for-grants/" target="_blank">Community of Practice</a>
-* Bookmark our <a href="https://www.performance.gov/CAP/CAP_goal_8.htmlPerformance.gov" target="_blank">Performance.gov</a> Grants Page 
+* Bookmark our <a href="https://www.performance.gov/CAP/CAP_goal_8.html" target="_blank">Performance.gov</a> Grants Page 
 * Follow updates on our progress on <a href="https://twitter.com/PerformanceGov?lang=en" target="_blank">Twitter</a> & <a href="https:/www.linkedin.com/company/performance-gov/" target="_blank">LinkedIn</a>.
 
 
