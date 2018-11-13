@@ -16,8 +16,8 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 4. Select “Submit New Issue” to submit your comments. Repeat the process for each data element you have feedback for. 
 
 For additional guidance refer to the User Guide and Frequently Asked Questions (FAQ) available for PDF download. 
-* [Download Github Feedback FAQs PDF] (/assets/docs/use-case-summaries.pdf)  
-* [Download User Guide for Github Feedback PDF] (/assets/docs/use-case-summaries.pdf)
+* [Download Github Feedback FAQs PDF](https://github.com/)  
+* [Download User Guide for Github Feedback PDF](https://github.com/)
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. All comments received may be posted without change, including any personal information provided. All comments are subject to the Freedom of Information Act. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
 
