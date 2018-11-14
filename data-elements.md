@@ -52,5 +52,5 @@ To join an Office Hour Session use the following number:
 Below you can download entire draft data elements list. 
 
 
-<a href="/data/GRM-Data-View-For-Public-Comment-1.csv"  class="btn btn-primary">Download Draft Data Elements List</a>
+<a href="/data/GRM-Data-Standards-Full-Public-Comment-Template.xlsx"  class="btn btn-primary">Download Draft Data Elements List</a>
 
