@@ -16,8 +16,8 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 4. Select “Submit New Issue” to submit your comments. Repeat the process for each data element you have feedback for. 
 
 For additional guidance refer to the User Guide and Frequently Asked Questions (FAQ) available for PDF download. 
-* [Download Github Feedback FAQs PDF](/data/DRAFT-Grants-Data-Standards-FAQs.pdf)  
-* [Download User Guide for Github Feedback PDF](https://github.com/)
+* <a href="/data/DRAFT-Grants-Data-Standards-FAQs.pdf" target="_blank">Download Github Feedback FAQs PDF</a>
+* <a href="/data/DRAFT-Grants-Data-Standards-FAQs.pdf" target="_blank">Download User Guide for Github Feedback PDF</a>
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. Please create a new issue for each data element you comment on. 
 
@@ -52,5 +52,5 @@ To join an Office Hour Session use the following number:
 Below you can download entire draft data elements list. 
 
 
-<a href="/data/GRM-Data-Standards-Full-Public-Comment-Template.xlsx"  class="btn btn-primary">Download Draft Data Elements List</a>
+<a href="/data/GRM-Data-Standards-Full-Public-Comment-Template.xlsx" target="_blank" class="btn btn-primary">Download Draft Data Elements List</a>
 
