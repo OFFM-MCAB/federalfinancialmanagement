@@ -38,7 +38,7 @@ To join an Office Hour Session use the following number:
 <script type="text/javascript">
 	$(document).ready(function() {
 	init_table({
-		csv_path: './data/GRM-Data-View-For-Public-Comment-2.csv',
+		csv_path: './data/GRM-Data-View-For-Public-Comment-2-1.csv',
 		element: 'table-container'
 	});
 });
