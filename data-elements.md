@@ -28,12 +28,14 @@ All comments received may be posted without change, including any personal infor
 
 Do you have questions about the process for giving feedback? Call into our Office Hours 
 Hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have. 
-* November 29, Time TBD
-* December 6, Time TBD
+* November 29, Time 11:30am-12:30pm
+* December 6, Time 1:00pm-2:00pm
 * December 13, Time TBD 
 
-To join an Office Hour Session use the following number:
+To join a virtual Office Hour Session use the following number:
 * 1-866-928-2008; 8514834# 
+* Submit questions via live chat at www.meet.gsa.gov/grantsfibf 
+
 
 <script type="text/javascript">
 	$(document).ready(function() {
