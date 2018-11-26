@@ -34,7 +34,7 @@ Hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask an
 
 To join a virtual Office Hour Session use the following number:
 * 1-866-928-2008; 8514834# 
-* Submit questions via live chat at www.meet.gsa.gov/grantsfibf 
+* Submit questions via live chat at [https://meet.gsa.gov/grantsfibf](https://meet.gsa.gov/grantsfibf)
 
 
 <script type="text/javascript">
