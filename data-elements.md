@@ -30,7 +30,7 @@ Do you have questions about the process for giving feedback? Call into our Offic
 Hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have. 
 * November 29, Time 11:30am-12:30pm
 * December 6, Time 1:00pm-2:00pm
-* December 13, Time TBD 
+* December 13, Time 4:00pm-5:00pm
 
 To join a virtual Office Hour Session use the following number:
 * 1-866-928-2008; 8514834# 
