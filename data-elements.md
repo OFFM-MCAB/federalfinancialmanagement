@@ -18,6 +18,7 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 For additional guidance refer to the User Guide available for PDF download. 
 
 * <a href="/data/DRAFT-User-Guide-for-Data-Standards-Feedback-3.pdf" target="_blank">Download User Guide for Github Feedback PDF</a>
+* <a href="/data/DRAFT-Grants-Data-Standards-FAQs.docx" target="_blank">Download Draft Grant Data Standards FAQs</a>
 
 To provide feedback on the Draft Data Elements, refer to the User Guide. Please ensure that you reference which data element you are commenting on. Please create a new issue for each data element you comment on. 
 
