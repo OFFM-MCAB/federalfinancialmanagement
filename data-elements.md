@@ -41,6 +41,8 @@ To join a virtual Office Hour Session use the following number:
 * Submit questions via live chat at [https://meet.gsa.gov/grantsfibf](https://meet.gsa.gov/grantsfibf)
 
 
+<a class="usa-button usa-button-secondary" target="_blank" href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">Submit a Comment</a>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 	init_table({
